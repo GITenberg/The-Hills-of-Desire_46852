@@ -1,4 +1,8 @@
 _repo: The-Hills-of-Desire_46852
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46852-h/images/cover.jpg
 creator:
   author:
     agent_name: Maher, Richard Aumerle
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '34369'
     url: http://www.gutenberg.org/2009/agents/34369
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46852#The-Hills-of-Desire
 gutenberg_issued: '2014-09-14'
 gutenberg_type: Text
 identifiers:
